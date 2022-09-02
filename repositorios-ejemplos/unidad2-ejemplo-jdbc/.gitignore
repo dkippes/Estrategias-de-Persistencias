@@ -1,0 +1,8 @@
+.classpath
+.settings
+.project
+/target
+/data/*
+.gradle/
+build/*
+.idea
